@@ -14,7 +14,7 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
 
-	// 1.1 on branch "master", uncomment the following line and make a commi
+	// 1.1 on branch "master", uncomment the following line and make a commit
 	cout << "This is the first line of code" << endl;
 
 	// 1.2 create and switch to branch "hello", uncomment (and complete) the following line and make a commit  
@@ -29,5 +29,5 @@ int main(int argc, char *argv[]) {
 	// 1.4 merge branch "hello" into "master" keeping ALL of the code added so far
 
 	// 1.5 make a merge commit 
-
+	
 }
